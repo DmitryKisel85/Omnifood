@@ -1,9 +1,3 @@
-// h1.addEventListener("click", function () {
-//   h1.textContent = myName;
-//   h1.style.backgroundColor = "red";
-//   h1.style.padding = "5rem";
-// });
-
 // Устанавливает текущий год
 const yearEl = document.querySelector('.year');
 const currentYear = new Date().getFullYear();
@@ -86,4 +80,4 @@ function checkFlexGap() {
 }
 checkFlexGap();
 
-// https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js
+
